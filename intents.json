@@ -1,0 +1,110 @@
+{
+    "intents": [
+        {
+            "tag": "greeting",
+            "patterns": [
+                "hello",
+                "hi",
+                "hey",
+                "good morning",
+                "good evening",
+                "how are you"
+            ],
+            "responses": [
+                "Hello! How can I help you?",
+                "Hi! I am your Student Assistant.",
+                "Hey! What would you like to know?"
+            ]
+        },
+        {
+            "tag": "name",
+            "patterns": [
+                "what is your name",
+                "who are you",
+                "tell me your name"
+            ],
+            "responses": [
+                "I am Student Assistant, your Python chatbot.",
+                "My name is Student Assistant."
+            ]
+        },
+        {
+            "tag": "study",
+            "patterns": [
+                "how can I study",
+                "give me study tips",
+                "how to study",
+                "study tips"
+            ],
+            "responses": [
+                "Make a timetable and study difficult subjects first.",
+                "Study for 45-50 minutes and take a short break.",
+                "Practice questions regularly instead of only reading."
+            ]
+        },
+        {
+            "tag": "python",
+            "patterns": [
+                "what is python",
+                "tell me about python",
+                "python programming",
+                "what is python language"
+            ],
+            "responses": [
+                "Python is a high-level programming language known for its simple syntax.",
+                "Python is widely used in web development, AI, machine learning and automation."
+            ]
+        },
+        {
+            "tag": "dbms",
+            "patterns": [
+                "what is dbms",
+                "explain dbms",
+                "what is database",
+                "dbms meaning"
+            ],
+            "responses": [
+                "DBMS stands for Database Management System. It is software used to store, manage and retrieve data.",
+                "Examples of DBMS include MySQL, Oracle and PostgreSQL."
+            ]
+        },
+        {
+            "tag": "help",
+            "patterns": [
+                "help",
+                "what can you do",
+                "what can you help me with"
+            ],
+            "responses": [
+                "I can answer student questions, explain basic programming concepts and perform simple calculations.",
+                "You can ask me about Python, DBMS, study tips, calculations and more."
+            ]
+        },
+        {
+            "tag": "thanks",
+            "patterns": [
+                "thank you",
+                "thanks",
+                "thank you so much"
+            ],
+            "responses": [
+                "You're welcome!",
+                "Happy to help!",
+                "Anytime!"
+            ]
+        },
+        {
+            "tag": "bye",
+            "patterns": [
+                "bye",
+                "goodbye",
+                "see you",
+                "exit"
+            ],
+            "responses": [
+                "Goodbye! Keep learning!",
+                "See you next time!"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,27 @@
+[
+    {
+        "time": "2026-10-01 23:35:26",
+        "user": "hello",
+        "bot": "Hey! What would you like to know?"
+    },
+    {
+        "time": "2026-10-01 23:35:41",
+        "user": "what is python",
+        "bot": "Python is widely used in web development, AI, machine learning and automation."
+    },
+    {
+        "time": "2026-10-01 23:35:51",
+        "user": "calculate 34*78",
+        "bot": "The answer is 2652"
+    },
+    {
+        "time": "2026-10-01 23:36:00",
+        "user": "exit",
+        "bot": "Goodbye! Keep learning!"
+    },
+    {
+        "time": "2026-10-01 23:36:30",
+        "user": "exit",
+        "bot": "Goodbye! Keep learning!"
+    }
+]
